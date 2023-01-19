@@ -1,5 +1,36 @@
 div {
-    color: rgba(7, 236, 217, 0.527);
+    color: rgba(236, 80, 7, 0.527);
     font-family: arial;
     font-size: 20pt;
 }
+
+a{
+    color:rgb(250, 1, 1);
+    font-family: arial;
+    font-size: 30pt;
+}
+
+.u-center {
+    text-align: center;
+}
+
+.img-center {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 10000px;
+}
+
+h1 {
+    background-color: blueviolet;
+    border-radius: 10px;
+    color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom:10px;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
