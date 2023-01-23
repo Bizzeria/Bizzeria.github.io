@@ -11,4 +11,12 @@
 h1 {
     border-radius: 10px;
     width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.centratotesto {
+    text-align: center;
 }
