@@ -1,0 +1,14 @@
+.bommo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 149, 0.5);
+}
+
+.centratoimg{
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    border-radius: 10px;
+    width: fit-content;
+}
